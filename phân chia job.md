@@ -12,7 +12,8 @@
 |  Nguyễn Quang Tùng | Lead | Chia job, chốt edge case, review xác suất 10% mọi job  |
 | Lã Việt Quang | Annotator | job 1767, 1769 |
 | Ngô Lê Đức Anh | Annotator | job 1766, 1768 |
-| Nguyên Việt Hoàng | Reviewer | job 1762, 1764 |
+| Nguyên Việt Hoàng | Reviewer | job 1762, review 1767, 1766 |
+| Đỗ Lý Minh Hải | Reviewer | job 1764, review 1769, 1768 |
 
 ## Công việc
 
